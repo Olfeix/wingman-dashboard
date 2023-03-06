@@ -1,1 +1,1 @@
-export const BASE_URL = "http://draciel.pythonanywhere.com";
+export const BASE_URL = "https://draciel.pythonanywhere.com";
